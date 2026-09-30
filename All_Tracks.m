@@ -1,4 +1,5 @@
-% Using cmocean and m_map functions
+%% This is used to display all the tracks and colour code for etype for Figure 2a %% 
+%% Using cmocean and m_map functions
 addpath('/Users/yannik/Desktop/Blue_Shark_Project/Paper/Code/')
 addpath('/Users/yannik/Desktop/Blue_Shark_Project/Paper/Code/packages_needed_matlab/cmocean/')
 addpath('/Users/yannik/Desktop/Blue_Shark_Project/Paper/Code/packages_needed_matlab/m_map/')
