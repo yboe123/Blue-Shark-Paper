@@ -1,3 +1,4 @@
+# Used to identify behaviour state for individual sharks and fit custom inital parameters used to classify behaviour
 library(dplyr)
 library(moveHMM)
 library(readr)
