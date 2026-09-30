@@ -1,3 +1,4 @@
+%% Used to make Figures 5 and 6 %%
 % Using cmocean and m_map functions
 addpath('/Users/yannik/Desktop/Blue_Shark_Project/Paper/Code/')
 addpath('/Users/yannik/Desktop/Blue_Shark_Project/Paper/Code/packages_needed_matlab/cmocean/')
