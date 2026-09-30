@@ -1,3 +1,4 @@
+%% Used for figure 2b %%
 %% Defining data
 data = readtable('/Users/yannik/Desktop/Blue_Shark_Project/Paper/Data/all_bsh_pred-collocated.csv');
 data_state = readtable('/Users/yannik/Desktop/Blue_Shark_Project/Paper/Data/bsh_pred_collocated_with_states.csv');
