@@ -1,3 +1,4 @@
+# Runs through all the shark tracks and applies standardised inital parameters to classify behaviour, mainly used to speed filter and get an idea on all tracks at once
 library(dplyr)
 library(moveHMM)
 library(readr)
