@@ -1,3 +1,5 @@
+%% Used for Figure 1, eddy frequency map overlayed with shark tracks with behaviour states %%
+
 % Set working directories
 addpath('/Users/yannik/Desktop/Blue_Shark_Project/Paper/Code/')
 addpath('/Users/yannik/Desktop/Blue_Shark_Project/Paper/Code/packages_needed_matlab/cmocean/')
@@ -6,10 +8,8 @@ addpath('/Users/yannik/Desktop/Blue_Shark_Project/Paper/Code/packages_needed_mat
 addpath('/Users/yannik/Desktop/Blue_Shark_Project/Paper/Data/eddies/')
 load('/Users/yannik/Desktop/Blue_Shark_Project/Paper/Code/Eddie Scripts/eddy_frequency.mat')
 
-
 %% Load and formate shark data for overlaying tracks
 data=readtable('/Users/yannik/Desktop/Blue_Shark_Project/Paper/Data/bsh_pred_collocated_with_states.csv');
-
 
 bsh_pred = data(data.bathy <= -800, :); % apply filter, bathymetry <= 800m
 
